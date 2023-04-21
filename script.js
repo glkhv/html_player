@@ -1,4 +1,4 @@
-const audioPlayer = document.querySelector('.audio-player-1');
+const audioPlayer = document.querySelector('.audio-player');
 const audio = new Audio(
     'https://ia800905.us.archive.org/19/items/FREE_background_music_dhalius/backsound.mp3'
 );
